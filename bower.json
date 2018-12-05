@@ -1,0 +1,21 @@
+{
+  "name": "webdani",
+  "description": "primera web con dsac",
+  "main": "index.html",
+  "authors": [
+    "Daniel"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
